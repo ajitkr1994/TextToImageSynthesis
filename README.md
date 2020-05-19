@@ -1,2 +1,2 @@
 # TextToImageSynthesis
-PyTorch implementation of Text to Image Synthesis
+TensorFlow implementation of Text to Image Synthesis
